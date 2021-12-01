@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 隐私条款
+description: Privacy Policy
 ---
 
 # LyricEase 隐私条款

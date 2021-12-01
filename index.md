@@ -1,3 +1,9 @@
+---
+layout: default
+title: LyricEase
+description: Dedicated to creators.
+---
+
 # 最新版本
 
 您可以从 [Microsoft Store](https://www.microsoft.com/store/productId/9N1MKDF0F4GT) 获取我们的最新版本或在我们的 [Release 页面](https://github.com/brandonw3612/LyricEase/releases) 下载离线安装包.
