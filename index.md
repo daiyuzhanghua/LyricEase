@@ -4,7 +4,7 @@ title: LyricEase
 description: Dedicated to creators.
 ---
 
-# 最新版本
+# 获取
 
 您可以从 [Microsoft Store](https://www.microsoft.com/store/productId/9N1MKDF0F4GT) 获取我们的最新版本或在我们的 [Release 页面](https://github.com/brandonw3612/LyricEase/releases) 下载离线安装包.
 
@@ -13,6 +13,14 @@ description: Dedicated to creators.
 [这里](./privacy.html)是 LyricEase 的隐私条款.
 
 # 更新日志
+
+## v0.9.93 (20211210)
+本次更新带来了以下内容:
+1. 优化 UI 性能, 减少资源占用;
+2. 重新启用动态视觉效果, 如需开启请前往应用设置"性能与体验"选用"更佳体验". 
+
+## v0.9.91 (20211128)
+本次更新修复了可能因服务器返回数据异常造成无法加载的问题.
 
 ## v0.9.90 (20211127)
 本次更新带来了以下内容：
