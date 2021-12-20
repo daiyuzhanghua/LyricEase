@@ -12,6 +12,10 @@ description: Dedicated to creators.
 
 [这里](./privacy.html)是 LyricEase 的隐私条款.
 
+# 常见问题
+
+[这里](./faq.html)是 LyricEase 的常见问题解答.
+
 # 更新日志
 
 ## v0.9.94 (20211212)
