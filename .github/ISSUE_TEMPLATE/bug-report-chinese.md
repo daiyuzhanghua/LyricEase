@@ -1,8 +1,8 @@
 ---
 name: 错误报告 (中文)
 about: 创建错误报告以协助我们改进
-title: "[BUG]"
-labels: ''
+title: "[BUG] 在此处填写标题"
+labels: bug
 assignees: ''
 
 ---

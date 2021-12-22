@@ -1,8 +1,8 @@
 ---
 name: 功能建议 (中文)
 about: 为此项目提供您的建议
-title: "[FEATURE]"
-labels: ''
+title: "[FEATURE] 在此处填写标题"
+labels: feature request
 assignees: ''
 
 ---
